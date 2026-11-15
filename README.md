@@ -1,3 +1,4 @@
+![Word-Count-Analysis-with-PySpark](Neon_PySpark_Word_Count_Analytics.png)
 # Word Count Analysis with PySpark
 
 A distributed text-processing project that uses **Apache Spark (PySpark)** to calculate word frequencies in the **20 Newsgroups** text dataset and visualize the results with Python.
